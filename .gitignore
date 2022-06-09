@@ -1,9 +1,12 @@
 # Build and Release Folders
+/node_modules
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
 
+/recordings/
+/screenshots/
 # Other files and folders
 .settings/
 
