@@ -1,0 +1,5 @@
+Jest
+
+Installation: npm install -D jest
+package.json: In this file replace "test" value from "echo" to "jest".
+Command to Run jest tests: npm test
